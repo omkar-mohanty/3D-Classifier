@@ -25,6 +25,13 @@
 
 1. Open Colab links and run the files
 
+## Pre-Trained Auto-Encoder:
+
+If you want to use the pre-trained auto-encoder, it is available  [here](https://drive.google.com/drive/folders/1-3w2RYS57ho9it64J4k2r4q44ZWxmPsy?usp=sharing).
+
+
+
+
 ## Files 
 ### Utils
 - DataSet class for holding the various dataset functions and utilites
