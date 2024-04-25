@@ -1,0 +1,6 @@
+git+https://github.com/omkar-mohanty/PyVoxelizer
+numpy>=1.12.1
+git+https://github.com/p-hofmann/MeshReader.git#egg=meshlib
+meshlib>=0.0.2
+matplotlib
+h5py
