@@ -13,13 +13,13 @@
 ## Installation
 
 1. Clone the repository:
-
-`git clone https://github.com/omkar-mohanty/3D-Classifier.git`
+##
+    git clone https://github.com/omkar-mohanty/3D-Classifier.git
 
 
 2. Install the required dependencies:
-
-`pip install -r requirements.txt`
+##
+    pip install -r requirements.txt
 
 ## Usage
 
