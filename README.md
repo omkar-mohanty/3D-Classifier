@@ -30,5 +30,8 @@
 - DataSet class for holding the various dataset functions and utilites
 - VoxelModel class holdes voxelized models
 - ThreadVox threaded voxel model conversion
+- Ensure Paths to the dataset are correctly installed
 ### Workflow
+- Run workflow.ipynb step by step, making sure that the requirements are installed
+- Paths to the dataset must be correctly setup 
 ### Observations
