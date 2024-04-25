@@ -39,6 +39,6 @@ If you want to use the pre-trained auto-encoder, it is available  [here](https:/
 - ThreadVox threaded voxel model conversion
 - Ensure Paths to the dataset are correctly installed
 ### Workflow
-- Run workflow.ipynb step by step, making sure that the requirements are installed
-- Paths to the dataset must be correctly setup 
+- Run workflow.ipynb step by step, making sure that the requirements are installed.
+- Paths to the dataset must be correctly setup. 
 ### Observations
