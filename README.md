@@ -23,6 +23,12 @@
 
 ## Usage
 
-1. Prepare your dataset: Ensure your 3D objects are represented as point clouds and organized in a suitable directory structure.
+1. Open Colab links and run the files
 
-2. Train the model: Use the provided scripts to train a deep learning model on your dataset.
+## Files 
+### Utils
+- DataSet class for holding the various dataset functions and utilites
+- VoxelModel class holdes voxelized models
+- ThreadVox threaded voxel model conversion
+### Workflow
+### Observations
